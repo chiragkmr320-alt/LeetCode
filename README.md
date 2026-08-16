@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Sorting
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
