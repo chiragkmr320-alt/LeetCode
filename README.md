@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chiragkmr320-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -27,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
@@ -40,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
