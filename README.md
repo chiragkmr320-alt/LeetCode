@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Sorting
 |  |
