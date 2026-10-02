@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiragkmr320-alt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
