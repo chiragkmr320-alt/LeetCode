@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiragkmr320-alt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
