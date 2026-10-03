@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chiragkmr320-alt/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chiragkmr320-alt/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
