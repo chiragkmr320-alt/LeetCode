@@ -4,10 +4,11 @@ class Solution {
         for(int i : nums1){
              map.put( i , map.getOrDefault(i , 0)+1);
         }
-    List<Integer> list = new ArrayList<>();
+    int ans[] = new int[Math.min(nums1.length , nums2.length)];
+    int i=0;
         for(int a :nums2){
             if(map.containsKey(a)){
-                list.add(a);
+                ans[i++] = a;
                 if(map.get(a) == 1){
                     map.remove(a);
                 }else{
@@ -15,11 +16,6 @@ class Solution {
                 }
             }
         }
-        int ans[] = new int[list.size()];
-        int i=0;
-        for(int n : list){
-            ans[i++] = n;
-        }
-        return ans;
+       return Arrays.copyOf(ans, i);
     }
 }
