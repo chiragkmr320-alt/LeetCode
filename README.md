@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
