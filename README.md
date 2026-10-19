@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiragkmr320-alt/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chiragkmr320-alt/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chiragkmr320-alt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chiragkmr320-alt/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chiragkmr320-alt/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
